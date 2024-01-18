@@ -45,7 +45,7 @@ The primary goal of this project is to:
 1. Download and set up Apache Kafka and Apache Spark.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/khaaaleed-5/Real-time-Web-clickstream.git
+   git clone https://github.com/khaaaleed-5/Real-Time-Web-Clickstream.git
 # Usage
 
 - **Use the provided code snippets** or scripts in the code/ directory to perform data ingestion, Apache Spark processing, and analytics.
